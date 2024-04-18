@@ -9,7 +9,8 @@ body{
     margin-top: -16px;
 }
 ul{
-    list-style:none ;
+    /* con esto quitamos los numeros de la orderlist */
+    list-style:none; 
 }
 li{
     color:white;
@@ -25,6 +26,7 @@ li{
     border:2px solid #F38C82;
 }
 a{
+    /* Con esto quitamos el subrayado del hipervinculo */
     text-decoration: none;
     color:white;
 }
